@@ -120,7 +120,7 @@
 <details><summary>Deploy To Heroku</summary>
 <p>
 <br>
-<a href="https://youtu.be/uv0WHxwHwfo"><img src="https://img.shields.io/badge/watch%20Heroku%20Tutorial-red.svg?logo=Youtube"></a>
+<img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy To Heroku">
   <a href="(https://www.herokucdn.com/deploy/button.svg)(https://heroku.com/deploy?template=https://github.com/Billa008/DQ-the-file-donor)">
 </a>
 </p>
